@@ -1,5 +1,3 @@
-## Welcome to Stablecaps!
-
 ![logo1](profile/images/giristable_stablecaps_png_3_reduced.png)
 
 
@@ -12,4 +10,7 @@
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+sizes:
+convert giristable_stablecaps_png_3.png -resize 970^x428 -quality 10 giristable_stablecaps_png_3_reduced.png
 -->
