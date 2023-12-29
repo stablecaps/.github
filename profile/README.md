@@ -1,4 +1,4 @@
-![logo1](profile/images/giristable_stablecaps_png_3_reduced.png)
+![logo1](profile/images/giristable_stablecaps_png_1_reduced.png)
 
 
 <!--
