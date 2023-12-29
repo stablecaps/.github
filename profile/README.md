@@ -1,5 +1,8 @@
 ## Welcome to Stablecaps!
 
+![logo1](profile/images/giristable_stablecaps_png_3_reduced.png)
+
+
 <!--
 
 **Here are some ideas to get you started:**
