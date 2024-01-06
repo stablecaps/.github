@@ -1,4 +1,6 @@
-![logo1](profile/images/giristable_stable_caps_png_2_trimmed.png)
+![logo1](profile/images/giristable_stablecaps_png_1_reduced.png)
+
+![logo2](profile/images/giristable_stable_caps_png_2_trimmed.png)
 
 
 <!--
