@@ -7,10 +7,9 @@
 
 ![logo3](profile/images/taken/penultimate.png)
 
-<img src='profile/images/taken/penultimate.png' width='7129'>
-<img src='profile/images/taken/penultimate.png' width='3564'>
-<img src='profile/images/taken/penultimate.png' width='1782'>
+
 <img src='profile/images/taken/penultimate.png' width='891'>
+<img src='profile/images/taken/penultimate.png' width='668'>
 <img src='profile/images/taken/penultimate.png' width='446'>
 <img src='profile/images/taken/penultimate.png' width='223'>
 
