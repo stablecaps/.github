@@ -7,12 +7,12 @@
 
 ![logo3](profile/images/taken/penultimate.png)
 
-<img src='figure/jupyterlab.png' width='7129'>
-<img src='figure/jupyterlab.png' width='3564'>
-<img src='figure/jupyterlab.png' width='1782'>
-<img src='figure/jupyterlab.png' width='891'>
-<img src='figure/jupyterlab.png' width='446'>
-<img src='figure/jupyterlab.png' width='223'>
+<img src='profile/images/taken/penultimate.png' width='7129'>
+<img src='profile/images/taken/penultimate.png' width='3564'>
+<img src='profile/images/taken/penultimate.png' width='1782'>
+<img src='profile/images/taken/penultimate.png' width='891'>
+<img src='profile/images/taken/penultimate.png' width='446'>
+<img src='profile/images/taken/penultimate.png' width='223'>
 
 ![hspace_bot](profile/images/logo_hspace_bott.png)
 
