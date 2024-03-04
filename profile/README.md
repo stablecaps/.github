@@ -4,6 +4,16 @@
 
 ![logo3](profile/images/taken/penultimate.png)
 
+
+![logo3](profile/images/taken/penultimate.png)
+
+<img src='figure/jupyterlab.png' width='7129'>
+<img src='figure/jupyterlab.png' width='3564'>
+<img src='figure/jupyterlab.png' width='1782'>
+<img src='figure/jupyterlab.png' width='891'>
+<img src='figure/jupyterlab.png' width='446'>
+<img src='figure/jupyterlab.png' width='223'>
+
 ![hspace_bot](profile/images/logo_hspace_bott.png)
 
 
