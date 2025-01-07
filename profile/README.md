@@ -1,17 +1,17 @@
-![logo1](profile/images/giristable_stablecaps_png_1_reduced.png)
+![logo1](./profile/images/giristable_stablecaps_png_1_reduced.png)
 
-![logo2](profile/images/giristable_stable_caps_png_2_trimmed.png)
+![logo2](./profile/images/giristable_stable_caps_png_2_trimmed.png)
 
-![logo3](profile/images/taken/penultimate.png)
-
-
-![logo3](profile/images/taken/penultimate.png)
+![logo3](./profile/images/taken/penultimate.png)
 
 
-<img src='profile/images/taken/penultimate.png' width='891'>
-<img src='profile/images/taken/penultimate.png' width='668'>
-<img src='profile/images/taken/penultimate.png' width='446'>
-<img src='profile/images/taken/penultimate.png' width='223'>
+![logo3](./profile/images/taken/penultimate.png)
+
+
+<img src='./profile/images/taken/penultimate.png' width='891'>
+<img src='./profile/images/taken/penultimate.png' width='668'>
+<img src='./profile/images/taken/penultimate.png' width='446'>
+<img src='./profile/images/taken/penultimate.png' width='223'>
 
 ![hspace_bot](profile/images/logo_hspace_bott.png)
 
